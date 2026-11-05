@@ -65,3 +65,19 @@ The application will be tested for:
 - Duplicate registration numbers
 - Listing registrations
 - Searching existing and missing records
+
+
+## Usage Example
+
+Run the application:
+
+```bash
+node src/app.js
+```
+
+Example registration:
+- Student Name: Sohail Khan
+- Registration Number: 16839
+- Workshop: Web Development
+
+Search for registration number 16839 to display the registered student's details.
